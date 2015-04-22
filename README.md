@@ -1,2 +1,4 @@
 # hello-world
-Getting started with Github
+Getting started with Github 
+
+Learning a new tech is always fun!
